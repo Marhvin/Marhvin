@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello! I'm Marvin, a current student at Boston University studying CS. As an aspiring software developer, I love to learn about new technologies and taking on different challenges. Outside of that, I'm also powerlifter and enjoy pushing my physical limits just as much as my mental ones.<br><br>
+Hello! I'm Marvin, a current junior at Boston University studying CS. As an aspiring software developer, I love to learn about new technologies and taking on different challenges. Outside of that, I'm also powerlifter and enjoy pushing my physical limits just as much as my mental ones.<br><br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
